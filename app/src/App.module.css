@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+.content {
+    width: 480px;
+    padding-top: 48px;
+}
+
+.inputContainer {
+    display: flex;
+}
+
+.actionButton {
+    margin-left: 16px;
+}
+
+.listItem {
+    height: 46px;
+    border-bottom: 1px solid lightgrey;
+    display: flex;
+    align-items: center;
+}
+
+.listContainer {
+    padding-top: 16px;
+}
+
+.todoTitle {
+    margin-bottom: 0;
+    margin-left: 8px;
+}
